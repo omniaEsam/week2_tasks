@@ -1,0 +1,38 @@
+ /* style of task one */
+ /* .main-div{
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    
+} */
+/* style of task two */
+body{
+    margin: 0;
+    padding: 0;
+    background-color:rgba(245, 245, 245, 0.815);
+}
+.slider{
+    width: 85%;
+    margin: auto;
+    margin-top: 20px;
+}
+.slide img{
+    display: none;
+    margin: auto;
+  }
+  .slide img.active {
+    display: block;
+  }
+.btns{
+    text-align: center;
+    margin-top: 20px;
+}
+button{
+    padding: 10px 20px;
+    margin: 10px;
+    border:none ;
+    border-radius: 5px;
+    background-color: rgb(120 81 21 / 64%);
+    color: white;
+    cursor: pointer;
+}
